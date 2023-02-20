@@ -9,7 +9,7 @@
 more_movies = [
   {:title => 'My Neighbor Totoro', :rating => 'G',
     :release_date => '16-Apr-1988'},
-  {:title => 'Frozen', :rating => 'G',
+  {:title => 'Frozen 2', :rating => 'G',
     :release_date => '01-Jan-2020'}
   {:title => 'Green Book', :rating => 'PG-13',
     :release_date => '16-Nov-2018'},
